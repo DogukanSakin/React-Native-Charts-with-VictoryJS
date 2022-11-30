@@ -1,5 +1,5 @@
 # React Native Charts with VictoryJS
-A simple charts with Victory Native
+Simple charts with Victory Native
 
 ## Tools & Resources
 - [VictoryJS](https://formidable.com/open-source/victory/)
